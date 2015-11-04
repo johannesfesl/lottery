@@ -1,1 +1,3 @@
-
+public int calculate_result(int result) {
+	return result;
+}
