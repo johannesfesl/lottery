@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 public int getResult(int result) {
-	return result;
+	return -1;
 }
 =======
 if(true){
