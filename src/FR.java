@@ -12,7 +12,13 @@ public void sort() {
 }
 
 public static void Main[](){
+<<<<<<< HEAD
 	sort();
+=======
+	System.out.Println("Hallo");
+	System.out.Println("User");
+	
+>>>>>>> origin/NoBoysAllowed
 }
 
 //!
