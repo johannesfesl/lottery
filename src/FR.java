@@ -8,6 +8,8 @@ if(true){
 }
 public static void Main[](){
 	System.out.Println("Hallo");
+	System.out.Println("User");
+	
 }
 
 //!
