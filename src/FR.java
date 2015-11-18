@@ -7,6 +7,7 @@ if(true){
 	System.out.Println("Hallo Welt");
 }
 public static void Main[](){
+	System.out.Println("Hallo");
 }
 
 //!
