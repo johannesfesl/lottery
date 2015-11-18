@@ -6,7 +6,13 @@ public int getResult(int result) {
 if(true){
 	System.out.Println("Hallo Welt");
 }
+
+public void sort() {
+	Array.sort();
+}
+
 public static void Main[](){
+	sort();
 }
 
 //!
